@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3c71481-25f6-4d4a-a2d0-d3509754b378" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="predicting_stock_price" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="108" column="55" selection-start-line="108" selection-start-column="45" selection-end-line="108" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+                <marker date="1596899596470" expanded="true" signature="6493:6562" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_validation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5175">
+              <caret line="351" column="32" selection-start-line="351" selection-start-column="32" selection-end-line="351" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/predicted_vs_reality.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="242" selection-start-line="242" selection-end-line="242" />
+              <folding>
+                <element signature="e#5#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configs.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="package.json" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clean_ticker_list</find>
+      <find>df_rolled</find>
+      <find>f</find>
+      <find>LESCO</find>
+      <find>test</find>
+      <find>featureEng</find>
+      <find>i</find>
+      <find>appen</find>
+      <find>intercept</find>
+      <find>df_filtered_dict</find>
+      <find>_same_date_last_year</find>
+      <find>i for i in df_reg.columns if 'main' in i</find>
+      <find>roll</find>
+      <find>weekly_correlations_to_csv</find>
+      <find>print</find>
+      <find>threshold_days_in_week</find>
+      <find>min_days_in_week</find>
+      <find>=</find>
+      <find>'</find>
+      <find>&quot;:</find>
+      <find>min_percentage_data</find>
+      <find>percentage_change_full_train</find>
+      <find>predicted_diff_full_train</find>
+      <find>next_week_price_full_train</find>
+      <find>upper</find>
+      <find>df</find>
+      <find>std</find>
+      <find>date_reference</find>
+      <find>os</find>
+      <find>to_csv</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>df</replace>
+      <replace>raw_data</replace>
+      <replace>self._column</replace>
+      <replace>round(time.time() - start,1)</replace>
+      <replace>#%%</replace>
+      <replace />
+      <replace>weekly_diff</replace>
+      <replace>append</replace>
+      <replace>':</replace>
+      <replace>&quot;</replace>
+      <replace>=</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/feature_engineering.py" />
+        <option value="$PROJECT_DIR$/venv/main.py" />
+        <option value="$PROJECT_DIR$/get_data_from_yahoo_finance.py" />
+        <option value="$PROJECT_DIR$/general_checks.py" />
+        <option value="$PROJECT_DIR$/full_loop_test.py" />
+        <option value="$PROJECT_DIR$/main_seconde.py" />
+        <option value="$PROJECT_DIR$/bloomberg_test.py" />
+        <option value="$PROJECT_DIR$/get_currency_historical_data.py" />
+        <option value="$PROJECT_DIR$/one_tick_invest.ipynb" />
+        <option value="/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/pipeline.py" />
+        <option value="/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/model_selection/_validation.py" />
+        <option value="/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/decomposition/pca.py" />
+        <option value="$PROJECT_DIR$/week_back.py" />
+        <option value="$PROJECT_DIR$/evaluator.py" />
+        <option value="$PROJECT_DIR$/predict.py" />
+        <option value="$PROJECT_DIR$/investigation.py" />
+        <option value="$PROJECT_DIR$/plots.py" />
+        <option value="$PROJECT_DIR$/statistical_bahavior.py" />
+        <option value="$PROJECT_DIR$/feature_engineering_roll.py" />
+        <option value="$PROJECT_DIR$/get_symboles_names.py" />
+        <option value="$PROJECT_DIR$/adding_distance_from_e.py" />
+        <option value="$USER_HOME$/Library/Python/3.7/lib/python/site-packages/regressors/stats.py" />
+        <option value="$PROJECT_DIR$/showing_performenc_function.py" />
+        <option value="$PROJECT_DIR$/dev_reg_summary.py" />
+        <option value="$PROJECT_DIR$/chosen_ticks_performence.py" />
+        <option value="$PROJECT_DIR$/dev_train.py" />
+        <option value="$PROJECT_DIR$/dev_loop_to_delete.py" />
+        <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/weekly_diff_test/manipulating_raw_tick_list.py" />
+        <option value="$PROJECT_DIR$/full_loop.py" />
+        <option value="$PROJECT_DIR$/TODOLIST.py" />
+        <option value="$PROJECT_DIR$/dev.py" />
+        <option value="$PROJECT_DIR$/feature_engineering.py" />
+        <option value="$PROJECT_DIR$/data_generation.py" />
+        <option value="$PROJECT_DIR$/one_full_run.py" />
+        <option value="$PROJECT_DIR$/general_functions.py" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/weekly_diff_test/package.json" />
+        <option value="$PROJECT_DIR$/weekly_diff_test/plot_with_confidence_interval.py" />
+        <option value="$PROJECT_DIR$/data_validation.py" />
+        <option value="$PROJECT_DIR$/kivy.py" />
+        <option value="$PROJECT_DIR$/for_deleting.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/tests.py" />
+        <option value="$PROJECT_DIR$/df_measurements.csv" />
+        <option value="$PROJECT_DIR$/configs.json" />
+        <option value="$PROJECT_DIR$/predicted_vs_reality.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="1920" />
+    <option name="height" value="987" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="predicting_stock_price" type="b2602c69:ProjectViewProjectNode" />
+              <item name="predicting_stock_price" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$/old_code" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="predicting_stock_price" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kivy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="predicting_stock_price" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kivy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kivy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3c71481-25f6-4d4a-a2d0-d3509754b378" name="Default Changelist" comment="" />
+      <created>1587797716792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587797716792</updated>
+      <workItem from="1587797720636" duration="397000" />
+      <workItem from="1587798341820" duration="328000" />
+      <workItem from="1587798695427" duration="38634000" />
+      <workItem from="1588076945773" duration="71000" />
+      <workItem from="1588077032415" duration="84000" />
+      <workItem from="1588077210196" duration="167000" />
+      <workItem from="1588077409355" duration="46668000" />
+      <workItem from="1588255522697" duration="24993000" />
+      <workItem from="1588428806020" duration="9000" />
+      <workItem from="1588428848094" duration="10320000" />
+      <workItem from="1588524923277" duration="8114000" />
+      <workItem from="1588615242880" duration="11842000" />
+      <workItem from="1588698493894" duration="28163000" />
+      <workItem from="1588848721999" duration="7000" />
+      <workItem from="1589030970117" duration="10764000" />
+      <workItem from="1589170155785" duration="3545000" />
+      <workItem from="1589256973641" duration="4848000" />
+      <workItem from="1589376519427" duration="15000" />
+      <workItem from="1589514787303" duration="21589000" />
+      <workItem from="1589650647542" duration="7279000" />
+      <workItem from="1590128914925" duration="15899000" />
+      <workItem from="1590156795729" duration="25923000" />
+      <workItem from="1590298928845" duration="225000" />
+      <workItem from="1590592017637" duration="34460000" />
+      <workItem from="1591002691308" duration="4666000" />
+      <workItem from="1591037125381" duration="8921000" />
+      <workItem from="1591076783029" duration="143000" />
+      <workItem from="1591088072296" duration="26000" />
+      <workItem from="1591128408733" duration="1371000" />
+      <workItem from="1591190620249" duration="15905000" />
+      <workItem from="1591262019707" duration="38636000" />
+      <workItem from="1591526277212" duration="647000" />
+      <workItem from="1591527570003" duration="2521000" />
+      <workItem from="1591532934984" duration="31090000" />
+      <workItem from="1591709854338" duration="7022000" />
+      <workItem from="1591797809926" duration="730000" />
+      <workItem from="1591864199122" duration="970000" />
+      <workItem from="1591865847984" duration="579000" />
+      <workItem from="1591866469305" duration="4984000" />
+      <workItem from="1591877544653" duration="412000" />
+      <workItem from="1591877978984" duration="2308000" />
+      <workItem from="1591897424984" duration="12929000" />
+      <workItem from="1592040968348" duration="62374000" />
+      <workItem from="1592308549966" duration="566000" />
+      <workItem from="1592310305848" duration="1534000" />
+      <workItem from="1592325159809" duration="6456000" />
+      <workItem from="1592479851581" duration="114000" />
+      <workItem from="1592480129048" duration="7079000" />
+      <workItem from="1592570753701" duration="24533000" />
+      <workItem from="1592850714043" duration="21000000" />
+      <workItem from="1593087630410" duration="1403000" />
+      <workItem from="1593121062912" duration="26856000" />
+      <workItem from="1593367092247" duration="5612000" />
+      <workItem from="1593528486970" duration="1583000" />
+      <workItem from="1593754601117" duration="37650000" />
+      <workItem from="1593956301383" duration="2447000" />
+      <workItem from="1593961924527" duration="4517000" />
+      <workItem from="1593973014527" duration="215000" />
+      <workItem from="1593973231919" duration="879000" />
+      <workItem from="1593974126008" duration="732000" />
+      <workItem from="1593974861728" duration="3415000" />
+      <workItem from="1593978289087" duration="237000" />
+      <workItem from="1593978528800" duration="1224000" />
+      <workItem from="1594145531305" duration="1424000" />
+      <workItem from="1594147053240" duration="178000" />
+      <workItem from="1594147241701" duration="99000" />
+      <workItem from="1594147346580" duration="480000" />
+      <workItem from="1594147845846" duration="53000" />
+      <workItem from="1594147907170" duration="427000" />
+      <workItem from="1594148343892" duration="167000" />
+      <workItem from="1594148526216" duration="947000" />
+      <workItem from="1594149526133" duration="136000" />
+      <workItem from="1594149676329" duration="118000" />
+      <workItem from="1594149810680" duration="286000" />
+      <workItem from="1594150122869" duration="558000" />
+      <workItem from="1594150773730" duration="342000" />
+      <workItem from="1594151142692" duration="207000" />
+      <workItem from="1594151373345" duration="91000" />
+      <workItem from="1594151488161" duration="2753000" />
+      <workItem from="1594271595670" duration="138000" />
+      <workItem from="1594271844897" duration="2533000" />
+      <workItem from="1594274668532" duration="2612000" />
+      <workItem from="1594278794290" duration="765000" />
+      <workItem from="1594279616100" duration="112000" />
+      <workItem from="1594279730842" duration="787000" />
+      <workItem from="1594283382247" duration="71000" />
+      <workItem from="1594283455521" duration="625000" />
+      <workItem from="1594303251583" duration="2869000" />
+      <workItem from="1594306319208" duration="44000" />
+      <workItem from="1594306365503" duration="2340000" />
+      <workItem from="1594441970376" duration="836000" />
+      <workItem from="1594497956527" duration="736000" />
+      <workItem from="1594498791555" duration="784000" />
+      <workItem from="1594527879212" duration="12635000" />
+      <workItem from="1594569069757" duration="2968000" />
+      <workItem from="1594613713665" duration="2368000" />
+      <workItem from="1594645480686" duration="30867000" />
+      <workItem from="1595101949142" duration="1586000" />
+      <workItem from="1595164004429" duration="11333000" />
+      <workItem from="1595311052428" duration="1690000" />
+      <workItem from="1595393106267" duration="1741000" />
+      <workItem from="1595395155627" duration="76000" />
+      <workItem from="1595395233388" duration="650000" />
+      <workItem from="1595494089894" duration="259000" />
+      <workItem from="1595499150759" duration="1084000" />
+      <workItem from="1595511907725" duration="48875000" />
+      <workItem from="1595757955431" duration="12547000" />
+      <workItem from="1596176126609" duration="3012000" />
+      <workItem from="1596211325105" duration="25369000" />
+      <workItem from="1596372144086" duration="17000" />
+      <workItem from="1596372255166" duration="8000" />
+      <workItem from="1596398334550" duration="2560000" />
+      <workItem from="1596638351020" duration="3904000" />
+      <workItem from="1596720465236" duration="4453000" />
+      <workItem from="1596725882440" duration="21442000" />
+      <workItem from="1597389410298" duration="26000" />
+      <workItem from="1597775149577" duration="1550000" />
+      <workItem from="1599893561537" duration="19243000" />
+      <workItem from="1600351103214" duration="6000" />
+      <workItem from="1600351119892" duration="1181000" />
+      <workItem from="1600522073085" duration="18415000" />
+      <workItem from="1600662212268" duration="500000" />
+      <workItem from="1600690684523" duration="10000" />
+      <workItem from="1601030864147" duration="58140000" />
+      <workItem from="1601385842460" duration="1555000" />
+      <workItem from="1601478367176" duration="4230000" />
+      <workItem from="1601555798802" duration="14000" />
+      <workItem from="1601812374433" duration="102000" />
+      <workItem from="1601968794160" duration="7527000" />
+      <workItem from="1602251331430" duration="1924000" />
+      <workItem from="1602415752302" duration="164000" />
+      <workItem from="1602417086669" duration="781000" />
+      <workItem from="1602426442787" duration="879000" />
+      <workItem from="1602532272571" duration="1270000" />
+      <workItem from="1602609474099" duration="1332000" />
+      <workItem from="1602619012914" duration="354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="970795000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1920" height="987" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49916527" visible="true" weight="0.21512248" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008347" side_tool="true" weight="0.29041487" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32796317" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013889" side_tool="true" weight="0.2485955" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3295063" />
+      <window_info active="true" anchor="bottom" x="0" y="302" width="1440" height="278" id="Python Console" order="12" sideWeight="0.49861112" visible="true" weight="0.2522936" />
+      <window_info anchor="bottom" id="Jupyter" order="13" weight="0.3286517" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.93404907" visible="true" weight="0.27050054" />
+      <window_info anchor="right" x="0" y="0" width="310" height="627" id="Documentation" order="5" sideWeight="0.06595092" side_tool="true" visible="true" weight="0.27050054" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>Name  Symbol  ... Turnover(NIS thousands) Last Trade
+0             A.L.D.     ALD  ...                   26.12        EoD
+1            ABILITY    ABIL  ...                   33.17        EoD
+2              ACCEL    ACCL  ...                  126.33        EoD
+3         ADGAR INV.    ADGR  ...                 1003.71        EoD
+4               ADKA    ADKA  ...                  436.66        EoD
+5         AFCON HOLD    AFHL  ...                   61.83        EoD
+6     AFI PROPERTIES    AFPR  ...                 6047.85        EoD
+7      AFRICA INDUST    AFID  ...                    0.00        EoD
+8    AFRICA RESIDENC    AFRE  ...                   33.34        EoD
+9         AI SYSTEMS    AICS  ...                    0.00        EoD
+10      AIRPORT CITY    ARPT  ...                24421.52        EoD
+11            ALBAAD    ALBA  ...                 1633.85        EoD
+12         ALGOMIZER    ALMO  ...                   75.85        EoD
+13    ALLIUM MEDICAL    ALMD  ... ...</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>open       close  diff_ABIL
+Unnamed: 0                                   
+2019-02-17  716.799988  694.200012 -22.599976
+2019-02-18  714.900024  684.599976 -30.300049
+2019-02-19  684.599976  681.400024  -3.199951
+2019-02-20  709.700012  688.599976 -21.100037
+2019-02-21  688.599976  701.500000  12.900024
+2019-02-24  690.000000  685.599976  -4.400024
+2019-02-25  685.599976  691.200012   5.600037
+2019-02-26  685.099976  681.799988  -3.299988
+2019-02-27  681.799988  672.299988  -9.500000
+2019-02-28  672.299988  673.400024   1.100037
+2019-03-03  673.400024  678.900024   5.500000
+2019-03-04  678.900024  668.299988 -10.600037
+2019-03-05  668.299988  658.400024  -9.899963
+2019-03-06  658.400024  659.500000   1.099976
+2019-03-07  659.500000  663.799988   4.299988
+2019-03-10  654.799988  656.099976   1.299988
+2019-03-11  656.099976  670.900024  14.800049
+2019-03-12  670.900024  673.599976   2.699951
+2019-03-13  673.599976  661.700012 -11.899963
+2019-03-14  684.900024  685.000000...</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>open       high        low  ...    volume   ticker  close_old
+Unnamed: 0                                   ...                              
+2019-05-06   0.307000   0.307000   0.307000  ...       0.0  AVRT.TA   0.307000
+2019-05-07   0.307000   0.307000   0.307000  ...       0.0  AVRT.TA   0.307000
+2019-05-08   0.307000   0.307000   0.307000  ...       0.0  AVRT.TA   0.307000
+2019-05-09   0.307000   0.307000   0.307000  ...       0.0  AVRT.TA   0.307000
+2019-05-12   0.307000   0.307000   0.307000  ...       0.0  AVRT.TA   0.307000
+2019-05-13   0.307000   0.307000   0.307000  ...       0.0  AVRT.TA   0.307000
+2019-05-14   0.307000   0.307000   0.307000  ...       0.0  AVRT.TA   0.307000
+2019-05-15   0.307000   0.307000   0.307000  ...       0.0  AVRT.TA   0.307000
+2019-05-16   0.310000   0.325000   0.325000  ...   13500.0  AVRT.TA   0.325000
+2019-05-19   0.325000   0.325000   0.325000  ...       0.0  AVRT.TA   0.325000
+2019-05-20   0.325000   0.346000   0.346000  ...   3...</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>diff_VCTR.TA
+Unnamed: 0              
+2019-04-30    -49.000000
+2019-05-01    -18.000000
+2019-05-02     74.000000
+2019-05-05   -132.000000
+2019-05-06   -102.000000
+2019-05-07    -24.000000
+2019-05-08      0.000000
+2019-05-09      0.000000
+2019-05-12      9.000000
+2019-05-13     61.000000
+2019-05-14    -70.000000
+2019-05-15      0.000000
+2019-05-16    -32.000000
+2019-05-19     44.000000
+2019-05-20    176.000000
+2019-05-21      0.000000
+2019-05-22    -19.000000
+2019-05-23     31.000000
+2019-05-26    -44.000000
+2019-05-27    121.000000
+2019-05-28     98.000000
+2019-05-29     74.000000
+2019-05-30     36.000000
+2019-06-02     31.000000
+2019-06-03    171.000000
+2019-06-04      5.000000
+2019-06-05     43.000000
+2019-06-06    -92.000000
+2019-06-09      0.000000
+2019-06-10     83.000000
+...                  ...
+2020-03-11   -167.000000
+2020-03-12   -158.000000
+2020-03-15   -341.000000
+2020-03-16    144.000000
+2020-03-17   -102.000000
+2020-03-18    151.000000
+2020-03-19   -120.000000
+...</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/df_trained_filtered_dict/ADGR.pkl" />
+    <entry file="file://$PROJECT_DIR$/df_trained_filtered_dict/ABIL.pkl" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/decomposition/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="15" />
+          <folding>
+            <element signature="e#225#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pickel_lr_models/pickle_lr_model_CMER.pkl" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/decomposition/pca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2402">
+          <caret line="416" selection-start-line="416" selection-end-line="416" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/model_selection/_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="513" selection-start-line="513" selection-end-line="513" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="352" selection-start-line="352" selection-end-line="352" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/joblib/memory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="354" selection-start-line="354" selection-end-line="354" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75450">
+          <caret line="5079" selection-start-line="5079" selection-end-line="5079" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/model_selection/_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="372" column="20" selection-start-line="372" selection-start-column="19" selection-end-line="372" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="3593" selection-start-line="3593" selection-end-line="3593" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/statistical_bahavior.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+          <folding>
+            <element signature="e#5#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chosen_ticks_performence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages/regressors/stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_code/one_tick_invest.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weekly_diff_test/manipulating_raw_tick_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Untitled.ipynb" />
+    <entry file="file://$PROJECT_DIR$/old_code/adding_distance_from_e.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#5#51#0" expanded="true" />
+            <marker date="1596729709522" expanded="true" signature="1382:1500" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_code/feature_engineering_roll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_code/new_list_rolled_tickes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_symboles_names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showing_performenc_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1922">
+          <caret line="156" column="18" selection-start-line="156" selection-start-column="18" selection-end-line="156" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_code/full_loop_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2253">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_code/dev_loop_to_delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1716">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#6#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev_reg_summary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TODOLIST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="30" column="102" selection-start-line="30" selection-start-column="102" selection-end-line="30" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_code/dev_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="183" column="32" selection-start-line="183" selection-end-line="184" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/full_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="120" column="22" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="97" column="18" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
+          <folding>
+            <element signature="e#5#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one_full_run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3120">
+          <caret line="218" selection-start-line="165" selection-end-line="166" selection-end-column="55" />
+          <folding>
+            <element signature="e#5#51#0" expanded="true" />
+            <marker date="1601304251113" expanded="true" signature="2616:2658" ph="..." />
+            <marker date="1601304251113" expanded="true" signature="3050:3615" ph="..." />
+            <marker date="1601304251113" expanded="true" signature="3178:3254" ph="..." />
+            <marker date="1601304251113" expanded="true" signature="3804:3889" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_list_rolled_tickes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weekly_diff_test/plot_with_confidence_interval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="65" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="66" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/general_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="53" column="39" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for_deleting.py" />
+    <entry file="file://$PROJECT_DIR$/tests.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="3928" selection-start-line="3928" selection-end-line="3928" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/IPython/core/interactiveshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="3295" selection-start-line="3295" selection-end-line="3295" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kivy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_generation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/df_measurements.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/df_measurements_nons.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_engineering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplotlib_figure.png" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="55" selection-start-line="108" selection-start-column="45" selection-end-line="108" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+            <marker date="1596899596470" expanded="true" signature="6493:6562" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5175">
+          <caret line="351" column="32" selection-start-line="351" selection-start-column="32" selection-end-line="351" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predicted_vs_reality.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="242" selection-start-line="242" selection-end-line="242" />
+          <folding>
+            <element signature="e#5#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+{
+  "NAME": "EDRL",
+  "random_state_plot": 3,
+  "test_size": 0.15,
+  "years_back": 1.0,
+  "years_back_data_generation": 2,
+  "threshold_days_in_week": 1,
+  "min_percentage_data": 0.8,
+  "min_days_in_week": 1,
+  "corr_threshold": 0.3,
+  "corr_inter_threshold": 0.7,
+  "days_interval": 6,
+  "models_path": "./pickel_models",
+  "corr_inter_threshold_main": 0.35,
+  "date_reference": "2020-08-01",
+  "date_reference_end": "2020-09-12",
+  "correlation_path" :"./weekly_diff",
+  "date_reference_data_generation": "2020-09-28"
+
+}
